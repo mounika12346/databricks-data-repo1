@@ -14,7 +14,7 @@
 
 #class is a main program that holds the subprograms
 #xls class (template/blueprint) holds subprograms (functions) (tabs)
-print("hello databricks")
+print("hello databricks and git")
 class xls:
     def tab1(self):
         pass
